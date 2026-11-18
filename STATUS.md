@@ -2,6 +2,8 @@
 
 Student: Omran Nasir Abdelmoiem Mohamed | Reg no: 28249 | D = 9 | T = 49
 
+Final verification: both Dart files ran successfully and `dart analyze` reported no issues.
+
 ## Done
 
 - A1: Predicted and explained all eight operator/print lines.
